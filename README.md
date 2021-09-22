@@ -1,2 +1,2 @@
-# PlowerStore
-Web sell plowers
+# FlowerStore
+Web sell flowers
